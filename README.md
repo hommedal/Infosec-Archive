@@ -1,2 +1,2 @@
-# Infosec-Archive
+# Infosec Archive
 Collection of infosec documents.
